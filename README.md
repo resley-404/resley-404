@@ -1,1 +1,1 @@
-- Criminal IP is a Cyber Threat Intelligence Search Engine to find everything in Cybersecurity with impressive amount data capacities, API speed, and price.
+- “Strike me down and I will become more powerful than you could possibly imagine.”
